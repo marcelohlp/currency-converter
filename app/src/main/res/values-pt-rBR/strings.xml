@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="selection_screen_title">Conversor</string>
+    <string name="selection_screen_subtitle">Selecione suas opções</string>
+    <string name="selection_screen_from">Da moeda:</string>
+    <string name="selection_screen_to">Para moeda:</string>
+    <string name="selection_screen_button">Converter</string>
+    <string name="selection_screen_alert_text">Escolha moedas diferentes</string>
+    <string name="result_screen_title">Cotação</string>
+    <string name="result_screen_currency_from_code">Moeda origem:</string>
+    <string name="result_screen_input_value">Quantidade moeda origem:</string>
+    <string name="result_screen_currency_to_code">Moeda destino:</string>
+    <string name="result_screen_currency_to_unit_value">Valor unitário:</string>
+    <string name="result_screen_button">Voltar</string>
+    <string name="result_screen_erro_message">Falha ao realizar cotação!</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="selection_screen_title">Converter</string>
+    <string name="selection_screen_subtitle">Select your options</string>
+    <string name="selection_screen_from">Currency from:</string>
+    <string name="selection_screen_to">Currency to:</string>
+    <string name="selection_screen_button">Converter</string>
+    <string name="selection_screen_alert_text">Choose two diferents currencies</string>
+    <string name="result_screen_title">Exchange information</string>
+    <string name="result_screen_currency_from_code">Currency from:</string>
+    <string name="result_screen_input_value">Origin currency quantity:</string>
+    <string name="result_screen_currency_to_code">Currency to:</string>
+    <string name="result_screen_currency_to_unit_value">Unitary value:</string>
+    <string name="result_screen_button">Return</string>
+    <string name="result_screen_erro_message">Failure to obtain information!</string>
+</resources>
